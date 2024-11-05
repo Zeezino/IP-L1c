@@ -1,1 +1,1 @@
-# zecíços pra passar a nota 100
+# Execícios da lista 1 - C

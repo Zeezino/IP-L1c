@@ -1,1 +1,1 @@
-# Execícios da lista 1 - C
+# Exercícios da lista 1 - C
